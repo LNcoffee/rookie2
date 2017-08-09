@@ -1,0 +1,417 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"mag",
+				"margin-left"
+			],
+			[
+				"b",
+				"bolder"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"lis",
+				"list	list-style-type"
+			],
+			[
+				"bor",
+				"border-bottom-style"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"pis",
+				"position"
+			],
+			[
+				"ht",
+				"height"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"MIN",
+				"mini"
+			],
+			[
+				"mo",
+				"month_name"
+			],
+			[
+				"da",
+				"day_number"
+			],
+			[
+				"month_",
+				"month_number"
+			],
+			[
+				"r",
+				"raw_input"
+			],
+			[
+				"con",
+				"condition"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package→删除程序包"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/高佳奇/Desktop/rookie.html",
+		"/C/Users/高佳奇/Desktop/Learn/youchong/b1.html",
+		"/C/Users/高佳奇/Desktop/35/35.html",
+		"/C/Users/高佳奇/Desktop/9/9.html",
+		"/C/Users/高佳奇/Desktop/14110510521/index.html",
+		"/C/Users/高佳奇/Desktop/Learn/youchong/b2.html",
+		"/C/Users/高佳奇/Desktop/201610271533/index.html",
+		"/C/Users/高佳奇/Desktop/Learn/14110510521/index2.html",
+		"/C/Users/高佳奇/Desktop/Learn/14110510521/index.html",
+		"/C/Users/高佳奇/Desktop/index.css",
+		"/C/Users/高佳奇/Downloads/fetch.php",
+		"/C/Users/高佳奇/Desktop/css/normalize.css",
+		"/C/Users/高佳奇/Desktop/201610271533/readme.html",
+		"/C/Users/高佳奇/Desktop/201612141506/index.html",
+		"/C/Users/高佳奇/Desktop/201612141506/css/style.css",
+		"/C/Users/高佳奇/Desktop/Learn/14110510521/index.css",
+		"/C/Users/高佳奇/Desktop/201612141506/readme.html",
+		"/C/Users/高佳奇/Desktop/14110510521/rookie.html",
+		"/C/Users/高佳奇/Desktop/Learn/youchong/a1.html",
+		"/C/Users/高佳奇/Desktop/Learn/youchong/index.html",
+		"/C/Users/高佳奇/Desktop/14110510521/html/button.html",
+		"/C/Users/高佳奇/Desktop/35.html",
+		"/C/Users/高佳奇/Desktop/9.html",
+		"/D/Sublime Text3/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Sublime Text3/Data/Packages/EncodingHelper/EncodingHelper.sublime-settings",
+		"/D/Sublime Text3/Data/Packages/User/EncodingHelper.sublime-settings",
+		"/D/Sublime Text3/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/Sublime Text3/Data/Packages/User/Preferences.sublime-settings",
+		"/D/Sublime Text3/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/高佳奇/Desktop/14110510521s/index.html",
+		"/C/Users/高佳奇/Desktop/14110510521/html/box.html",
+		"/C/Users/高佳奇/Desktop/14110510521/html/01.html",
+		"/C/Users/高佳奇/Desktop/14110510521/html/daojishi.html",
+		"/C/Users/高佳奇/Desktop/14110510521/html/bpic.html",
+		"/E/wamp64/www/meishi/fen.html",
+		"/E/wamp64/www/meishi/d1.html",
+		"/E/wamp64/www/meishi/c1.html",
+		"/E/wamp64/www/meishi/b4.html",
+		"/E/wamp64/www/meishi/b3.html",
+		"/E/wamp64/www/meishi/b2.html",
+		"/E/wamp64/www/meishi/b1.html",
+		"/E/wamp64/www/meishi/show.html",
+		"/E/wamp64/www/meishi/a3.html",
+		"/E/wamp64/www/meishi/js/session.js",
+		"/C/Users/高佳奇/Desktop/14110510521/a1.html",
+		"/C/Users/高佳奇/Desktop/14110510521/reg.html",
+		"/E/wamp64/www/meishi/reg.html",
+		"/E/wamp64/www/meishi/index.html",
+		"/C/Users/高佳奇/Desktop/14110510521/in.html",
+		"/E/wamp64/www/meishi/a2.html",
+		"/E/wamp64/www/meishi/pinglun.html",
+		"/E/wamp64/www/meishi/css/all.css",
+		"/E/wamp64/www/meishi/css/index.css",
+		"/E/wamp64/www/meishi/a1.html",
+		"/E/wamp64/www/meishi/in.html",
+		"/E/wamp64/www/meishi/css/swiper.min.css",
+		"/E/wamp64/www/meishi/css/load.css",
+		"/E/wamp64/www/meishi/call.html",
+		"/E/wamp64/www/meishi/b1show.html",
+		"/E/wamp64/www/youchong/in.html",
+		"/E/wamp64/www/youchong/d1.html",
+		"/E/wamp64/www/youchong/call.html",
+		"/E/wamp64/www/youchong/css/all.css",
+		"/E/wamp64/www/youchong/css/index.css",
+		"/E/wamp64/www/youchong/index.html",
+		"/E/wamp64/www/youchong/a1.html",
+		"/E/wamp64/www/youchong/pinglun.html",
+		"/E/wamp64/www/youchong/reg.html",
+		"/E/wamp64/www/youchong/css/swiper.min.css",
+		"/E/wamp64/www/youchong/css/load.css",
+		"/D/Sublime Text3/Data/Packages/Package Control/Package Control.sublime-settings",
+		"/E/wamp64/www/youchong/c1.html",
+		"/E/wamp64/www/youchong/b2.html",
+		"/E/wamp64/www/youchong/a3.html",
+		"/E/wamp64/www/youchong/a2.html",
+		"/C/Users/高佳奇/Desktop/youchong/index.html",
+		"/E/wamp64/www/youchong/b4.html",
+		"/E/wamp64/www/youchong/b3.html",
+		"/E/wamp64/www/youchong/b1.html",
+		"/E/wamp/www/youchong/in.html",
+		"/E/wamp64/www/youchong/fen.html",
+		"/E/wamp64/www/youchong/b1show.html",
+		"/E/wamp64/www/youchong/b2show.html",
+		"/C/Users/高佳奇/Desktop/1222/qidong33.html",
+		"/C/Users/高佳奇/Desktop/1222/denglu.html",
+		"/C/Users/高佳奇/Desktop/1222/zhuce.html",
+		"/C/Users/高佳奇/Desktop/1222/wo.html",
+		"/C/Users/高佳奇/Desktop/1222/huodong.html",
+		"/C/Users/高佳奇/Desktop/1222/css/style.css",
+		"/C/Users/高佳奇/Desktop/1222/index.html",
+		"/C/Users/高佳奇/Desktop/1222/qidong.html",
+		"/C/Users/高佳奇/Desktop/youchong/in.html",
+		"/C/Users/高佳奇/Desktop/qidong33.html",
+		"/C/Users/高佳奇/Desktop/1222/新建文本文档.txt",
+		"/C/Users/高佳奇/Desktop/zhuce33.html",
+		"/C/Users/高佳奇/Desktop/14110510521/shouye.html",
+		"/C/Users/高佳奇/Desktop/轮播.html",
+		"/C/Users/高佳奇/Desktop/qidong.html",
+		"/C/Users/高佳奇/Desktop/denglu.html",
+		"/C/Users/高佳奇/Desktop/14110510521/denglu.html",
+		"/C/Users/高佳奇/Desktop/53.html",
+		"/C/Users/高佳奇/Desktop/14110510521/shoucang.html",
+		"/C/Users/高佳奇/Desktop/14110510521/index2.html",
+		"/C/Users/高佳奇/AppData/Local/Temp/HZ$D.184.2530/HZ$D.184.2531/index.html",
+		"/C/Users/高佳奇/Desktop/465.html",
+		"/C/Users/高佳奇/Desktop/查看修改删除.html",
+		"/C/Users/高佳奇/Desktop/view.js",
+		"/C/Users/高佳奇/Desktop/14110510508/shouye.html",
+		"/C/Users/FYL/Desktop/14110510522/index.html",
+		"/C/Users/FYL/Desktop/14110510522/tab4l/tab102/2.html",
+		"/C/Users/FYL/Desktop/归档/Python练习/py练习/对象.py",
+		"/E/资料整理/学校讲的/jquery2/tab2/02/tab2 02.html",
+		"/C/Users/FYL/Desktop/归档/12/1.html",
+		"/C/Users/FYL/Desktop/归档/VIP.pub",
+		"/C/Users/FYL/Downloads/centos6-nginx-wordpress",
+		"/C/Users/FYL/Desktop/wp-config.php",
+		"/C/Users/FYL/Desktop/归档/12/index.html",
+		"/C/Users/FYL/Desktop/1",
+		"/C/Users/FYL/Desktop/归档/000/主页.html",
+		"/C/Users/FYL/Desktop/HOSTS",
+		"/C/Windows/System32/drivers/etc/HOSTS",
+		"/D/QQ/数据/782056624/FileRecv/QQ刷钻助手.apk",
+		"/C/Users/FYL/Desktop/14110510522傅彦霖/主页.html",
+		"/C/Users/FYL/Desktop/归档/Python练习/第1周：Python基础知识（第1章到第5章） - 实验楼.html",
+		"/C/Users/FYL/Desktop/4603064.pub",
+		"/C/Users/FYL/Desktop/wp-config-sample.php",
+		"/C/Users/FYL/Desktop/htdocs/index.php",
+		"/C/Users/FYL/Desktop/归档/wordpress.txt"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"20px",
+			"	\n",
+			"<nihao>",
+			"nihao1>",
+			"swiper-pic",
+			"这里实现延迟3秒跳转",
+			"icon",
+			"表格",
+			"images"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 117.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

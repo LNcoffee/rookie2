@@ -1,0 +1,50 @@
+.shop{
+	width: 1000px;
+	
+	margin: 0 auto;
+}
+.goods_con{
+	width: 220px;
+	height: 300px;
+	float: left;
+}
+.goods_con a{
+
+	
+}
+.explain a{
+	margin-left: 10px;
+	float: left;
+}
+.goods_con img{
+	width: 200px;
+	margin: 10px;
+	border: 3px solid #e5e9ef;
+	border-radius: 4px;
+}
+.goodstitle:hover{
+	color: #f66;
+}
+.price{
+	line-height: 20px;
+    color: #f66;
+    font-size: 16px;
+    text-align: center;
+   margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 30px;
+    font-weight: 600;
+}
+.addcart{
+	width: 90px;
+	height: 25px;
+	line-height: 25px;
+	background: #f25d8e;
+	border-radius: 4px;
+	color: #fff;
+	text-align: center;
+	margin-top: 8px;
+	display: block;
+}
+.addcart:hover{
+	background: #f66;

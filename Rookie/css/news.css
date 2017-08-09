@@ -1,0 +1,37 @@
+.n_tag{
+	width: 700px;
+}
+.news_tag{
+	width: 100%;
+	padding: 20px 20px;
+	border: solid 3px #111;
+    border-style: solid none;
+}
+.news_title{
+	text-align: center;
+    padding: 15px 0 0;
+    color: #444;
+    font-size: 24px;
+    height: 25px;
+    line-height: 25px;
+    font-weight: bolder;
+    text-shadow: 0 0 1px #666;
+}
+.text_con{
+	    font-size: 15px;
+	    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    outline: none;
+    color: rgb(102, 102, 102);
+    line-height: 2;
+}
+.text_img{
+	width: 100%;
+	    text-align: center;
+	margin: 0 auto;
+}
+.text_img img{
+	width: 600px;
+    height: 420px;
+}

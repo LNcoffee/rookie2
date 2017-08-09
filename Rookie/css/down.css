@@ -1,0 +1,154 @@
+
+/*body{
+	background: #eff4f7;;
+}*/
+.header_warp{
+	position: relative;
+	width: 100%;
+    margin: 0 auto;
+    height: 689px;
+    background: url(../img/down_bg1.png) no-repeat;
+}
+.head_img{
+	 width: 100%;
+	 /*padding-bottom: 500px;*/
+    position: absolute;
+    bottom: -500px;
+    background: url(../img/down_bg2.png) center no-repeat;
+    height: 778px;
+   
+}
+.bo1{
+	position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 400%;
+    height: 80px;
+    background: url(../img/wave1.png) repeat-x;
+    -webkit-animation: Bolang 9s linear infinite;
+    animation: Bolang 9s linear infinite;
+    z-index: 99	;
+}
+.client_bar{
+	width: 1000px;
+	height: 60px;
+	margin: 20px auto 70px;
+}
+.client_bar ul{
+	margin: 0 auto;
+}
+.client_bar ul li a{
+	width: 140px;
+	height: 60px;
+	border-right: 1px solid #fff;
+	background: #f6f9fa;
+	float: left;
+}
+.client_bar ul li .first{
+	border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+.client_bar ul li .last{
+	border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+.client_bar ul li{
+	 font-size: 13px;
+    line-height: 16px;
+    text-align: center;
+}
+.client_bar ul li a:hover{
+ 	background: 0;
+    background-color: #1cd39b;
+    color: #fff;
+}
+.client_bar ul li a h4{
+	font-size: 13px;
+	height: 13px;
+	width: 100%;
+	margin: auto 0;
+}
+.client_bar ul li span {
+    display: block;
+    width: 26px;
+    height: 25px;
+    margin: 10px auto 1px;
+}
+.icon_iPhone, .icon_iPad, .icon_Android, .icon_AndroidPad, .icon_WP8, .icon_PC, .icon_Win10{
+	background-image: url(../img/downicon.png);
+    background-repeat: no-repeat;
+}
+.icon_iPhone{
+	background-position: 0 -341px;
+    height: 25px;
+    width: 26px;
+}
+.client_bar ul li a:hover .icon_iPhone{
+	background-position: 0 -372px;
+}
+.icon_iPad{
+	 background-position: 0 -279px;
+}
+.client_bar ul li a:hover .icon_iPad{
+	background-position: 0 -310px;
+}
+.icon_Android{
+
+}
+.client_bar ul li a:hover .icon_Android{
+
+    background-position: 0 -93px;
+}
+.icon_AndroidPad{
+	background-position: 0 -31px;
+}
+.client_bar ul li a:hover .icon_AndroidPad{
+	background-position: 0 -62px;
+}
+.icon_WP8{
+	    background-position: 0 -675px;
+}
+.client_bar ul li a:hover .icon_WP8{
+	    background-position: 0 -706px;
+}
+.icon_PC{
+	background-position: 0 -403px;
+}
+.client_bar ul li a:hover .icon_PC{
+	background-position: 0 -488px;
+}
+.icon_Win10{
+	    background-position: 0 -675px;
+}
+.client_bar ul li a:hover .icon_Win10{
+	    background-position: 0 -706px;
+}
+.downbox{
+	width: 300px;
+	margin: 0 auto;
+	padding-top: 200px;
+	text-align: center;
+}
+.downbox a{
+	display: block;
+    width: 192px;
+    height: 52px;
+    background-color: #1cd39b;
+    color: #fff;
+    font-size: 20px;
+    line-height: 52px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 0px auto 12px;
+}
+
+
+@media (max-width: 1000px){
+	.client_bar{
+		display: none;
+
+	}
+	.footer{
+		display: none;
+	}
+}

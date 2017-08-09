@@ -1,0 +1,63 @@
+
+ul{
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+a{
+	text-decoration: none;
+}
+.c1,.c2,.c3,.c4,.c5,.c6,.c7,.c8,.c9,.c10,.c11,.c12{
+	position: relative;
+	float: left;
+}
+.c1{
+	width: 
+}
+.c2{
+	width: 16.66666666%;
+}
+.c3{
+	width: 25%;
+}
+.c4{
+	width: 33.33333333%;
+}
+.c5{
+	width: ;
+}
+.c6{
+	width: 50%;
+}
+.c8{
+	width: 66.66666666%;
+}
+.c10{
+	width: 83.33333333%;
+}
+.c11{
+	width: 91.66666666%;
+}
+.c12{
+	width: 100%;
+}
+.header{
+	background: #333;
+}
+.header_nav{
+	/*background: #444;*/
+}
+.header_nav li {
+	
+}
+.header_nav li a{
+	
+	/*padding: 8px;*/
+	/*background: #666;*/
+}
+.user_nav{
+	
+}
+.user_nav li{
+	
+}
